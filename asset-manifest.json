@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b34c783.css",
-    "main.js": "/static/js/main.aceac3ef.js",
+    "main.css": "/static/css/main.722b3898.css",
+    "main.js": "/static/js/main.6babbc9a.js",
     "static/media/predix.jpg": "/static/media/predix.3842056f819c7b4a60d0.jpg",
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
     "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
@@ -13,16 +13,15 @@
     "static/media/cap.JPG": "/static/media/cap.d168fe046ee2fc08881c.JPG",
     "static/media/RobotoMono-Regular.ttf": "/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
     "static/media/portfolio.JPG": "/static/media/portfolio.a1a381b6249bcec64a2b.JPG",
-    "static/media/result_generator.png": "/static/media/result_generator.c90624db90f0266efbb9.png",
     "static/media/todo_app.JPG": "/static/media/todo_app.13494c9f6231936722f1.JPG",
     "static/media/LilitaOne-Regular.ttf": "/static/media/LilitaOne-Regular.797856d9e8eaaa395824.ttf",
     "static/media/rfdt.png": "/static/media/rfdt.5db4f79b87374def9298.png",
     "index.html": "/index.html",
-    "main.4b34c783.css.map": "/static/css/main.4b34c783.css.map",
-    "main.aceac3ef.js.map": "/static/js/main.aceac3ef.js.map"
+    "main.722b3898.css.map": "/static/css/main.722b3898.css.map",
+    "main.6babbc9a.js.map": "/static/js/main.6babbc9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b34c783.css",
-    "static/js/main.aceac3ef.js"
+    "static/css/main.722b3898.css",
+    "static/js/main.6babbc9a.js"
   ]
 }
